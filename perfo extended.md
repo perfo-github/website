@@ -1,3 +1,6 @@
+---
+layout: default
+---
 the perfo philosphy can be about more than windows apps. that's where perfo extended comes in. 
 
 books

@@ -4,6 +4,7 @@ plugins:
 
 title: perfo
 url: https://perfo-github.github.io/website
+show_downloads: false
 
 links:
   - name:         perfo  
