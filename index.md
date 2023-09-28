@@ -1,4 +1,4 @@
-**[perfo](index.md) | [requirements](<requirements to be perfo.md>) | [how perfo apps are made](<how perfo apps are made.md>) | [perfo extended](<perfo extended.md>)**
+[perfo](index.md) | [requirements](<requirements to be perfo.md>) | [how perfo apps are made](<how perfo apps are made.md>) | [perfo extended](<perfo extended.md>)
 
 perfo is a philiosphy. It stands for 'performance oriented'.
 

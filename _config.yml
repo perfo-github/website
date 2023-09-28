@@ -1,3 +1,23 @@
 remote_theme: r01nx/minimal-neon
 plugins:
 - jekyll-remote-theme
+
+title: perfo
+url: https://perfo-github.github.io/website
+
+links:
+  - name:         perfo  
+    url:          </index.md>
+    external:     false
+  - name:         requirements
+    url:          </requirements to be perfo.md>
+    external:     false
+  - name:         how perfo apps are made
+    url:          </how perfo apps are made.md>
+    external:     false
+  - name:         requirements
+    url:          /<requirements to be perfo.md>
+    external:     false
+  - name:         perfo extended
+    url:          </perfo extended.md>
+    external:     false
