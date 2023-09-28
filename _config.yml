@@ -11,14 +11,11 @@ links:
     url:          </index.md>
     external:     false
   - name:         requirements
-    url:          </requirements to be perfo.md>
+    url:          <./requirements to be perfo.html>
     external:     false
   - name:         how perfo apps are made
-    url:          </how perfo apps are made.md>
-    external:     false
-  - name:         requirements
-    url:          /<requirements to be perfo.md>
+    url:          <./how perfo apps are made.html>
     external:     false
   - name:         perfo extended
-    url:          </perfo extended.md>
+    url:          <./perfo extended.html>
     external:     false
