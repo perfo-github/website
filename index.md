@@ -9,15 +9,15 @@ about:
 perfo is a philosophy for modern windows applications that have a performance oriented ui and ux. we believe that there can exist apps that are modern and gode-looking without having a bloated uis that are slow. if you believe this too, then you are in the right place. 
 
 what perfo is about:
-✅ fast
-✅ snappy
+✅ fast  
+✅ snappy  
 
 what perfo is not about:
-❌ rounded corners
-❌ excessive whitespace
-❌ slow and laggy animations
-❌ large fonts we wish were smaller
-❌ requiring internet for basic tasks
+❌ rounded corners  
+❌ excessive whitespace  
+❌ slow and laggy animations  
+❌ large fonts we wish were smaller  
+❌ requiring internet for basic tasks  
 
 examples of perfo apps:
 * Everything - a perfect perfo app.
