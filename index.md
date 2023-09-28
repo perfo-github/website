@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-[perfo](index.md) - [requirements](<./requirements to be perfo.html>) - [how perfo apps are made](<./how perfo apps are made.html>) - [perfo extended](<./perfo extended.html>)
-
 perfo is a philiosphy. It stands for 'performance oriented'.
 
 about:
