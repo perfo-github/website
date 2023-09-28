@@ -1,0 +1,3 @@
+remote_theme: r01nx/minimal-neon
+plugins:
+- jekyll-remote-theme
