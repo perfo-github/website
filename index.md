@@ -38,4 +38,4 @@ examples of perfo apps:
 
 do you think an app should be on this list? add it to this file on github and open a pr. we'll evaluate the addition soon. 
 
-![Static Badge](https://img.shields.io/badge/perfo-yes-red?link=https%3A%2F%2Fperfo-github.github.io%2Fwebsite%2F)
+![Static Badge](https://img.shields.io/badge/perfo-yes-red?style=flat-square&link=https%3A%2F%2Fperfo-github.github.io%2Fwebsite%2F)
