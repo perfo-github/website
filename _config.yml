@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: perfo
+description: the perfo website
 url: https://perfo-github.github.io/website
 show_downloads: false
 
